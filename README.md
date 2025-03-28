@@ -14,7 +14,7 @@ No cloud storage, no third-party dependencies—just a lightweight, local passwo
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/anishNagula/Simple-Password-Manager-Bash-OpenSSL-.git
+git clone https://github.com/anishNagula/Bash-PassMgr
 mv Simple-Password-Manager-Bash-OpenSSL- password_manager
 cd password-manager
 ```
